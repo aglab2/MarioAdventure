@@ -1,0 +1,28 @@
+[Info]
+Version=1
+[Coin]
+Icon X=168
+Icon Y=209
+X X=184
+X Y=209
+Counter X=198
+Counter Y=209
+[Live]
+Icon X=22
+Icon Y=209
+X X=38
+X Y=209
+Counter X=54
+Counter Y=209
+[Star]
+Icon X=242
+Icon Y=209
+X X=258
+X Y=209
+Counter X=258
+Counter Y=209
+[Timer]
+Time X=170
+Time Y=185
+Counter X=229
+Counter Y=185

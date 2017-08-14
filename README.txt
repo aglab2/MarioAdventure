@@ -7,7 +7,7 @@ PLEASE TAKE 1 MINUTE OF YOUR TIME AND READ SIGNS AT START OF GAME
 Version 1.0.3:
 Fixed c10 star 7, nerfed star 6
 Fixed Mystic Woods star
-Fixed some random stuff I forgot
+Nerfed c7s7
 
 Version 1.0.2:
 Fixed warp to s6 in Extra Course

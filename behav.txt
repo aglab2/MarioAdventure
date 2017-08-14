@@ -1,0 +1,14 @@
+Custom behaviours:
+13004580 = 21E380 -> base=219E000
+
+instead of stuffs in koopa behav
+warp 0xE0 4580
+warp 0xE1 45A4
+warp 0xE2 45C8
+secret warp 0xE0 on 0x01 at 0x07 45EC
+secret warp 0xE1 on 0x02 at 0x07 4610
+
+instead of klepto behav
+AB challenge 5310
+
+couple more I forgot

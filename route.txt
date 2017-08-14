@@ -1,0 +1,34 @@
+[1] Emerald Coast
+		Reds + 100 + Toad
+		Green Hill Secret
+		Troll Star Beach Party
+		Top of Lighthouse
+[2] Inverted Casinopolis
+		Scale the Casino
+[3] Highwat Street City
+		Fountain Trouble
+		Rooftop Run
+[5] Blue Glacier Height
+		Reds
+[6] Red Cliff Mountain
+		Thwomp + 100
+		Lavabounce
+		Escape from the Level
+[9] Cold Burning Sky Deck
+		First 5 Stars
+[4] Space Twinkle Park
+		Reds + 100
+		Tower wallkick
+		Shrink
+[OW]Mystic Forest
+		Water
+		Gate
+		Tree
+[7] Stone Mystic Temple
+		First 3 Stars
+[8] Final Cap Factory
+		Wing Cap star
+[11]Forgotten Castle
+		First 4 Stars
+[10]Water Shelter
+		
